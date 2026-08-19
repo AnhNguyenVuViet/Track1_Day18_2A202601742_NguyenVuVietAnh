@@ -1,4 +1,4 @@
-# Track 1 — Day 18 — Reverse-Engineering Solution Directive
+# Track 1 — Day 18 — Multiple Prototypes - Human–AI design
 
 ## Thông tin cá nhân và nhóm
 
