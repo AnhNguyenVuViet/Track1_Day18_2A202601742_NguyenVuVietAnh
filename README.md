@@ -16,7 +16,7 @@
 | Nguyễn Vũ Việt Anh | 2A202601742 | Human–AI decisions |
 | Nguyễn Đình Quốc | 2A202601935 | Shared context/content |
 | Mai Tiến Mạnh | 2A202601922 | Facilitation |
-| Nguyễn Minh Hoàng | 2A202601904 | Tổng hợp feedback |
+| Nguyễn Đức Anh | 2A202601870 | Tổng hợp feedback |
 
 ---
 
